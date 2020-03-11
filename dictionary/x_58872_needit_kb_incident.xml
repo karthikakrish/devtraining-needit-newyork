@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="KB_INCIDENT" max_length="40" name="x_58872_needit_kb_incident" type="collection">
+        <element display="true" label="BusOrg" max_length="40" name="busorg" type="string"/>
+        <element label="ProductName" max_length="40" name="productname" type="string"/>
+        <element label="ServiceID" max_length="40" name="serviceid" type="string"/>
+    </element>
+</database>
